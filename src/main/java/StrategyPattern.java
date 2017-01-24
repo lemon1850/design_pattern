@@ -1,3 +1,6 @@
+import java.util.Observable;
+import java.util.Observer;
+
 /**
  * Created by tianhe on 2017/1/24.
  */
